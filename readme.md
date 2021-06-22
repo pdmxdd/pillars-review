@@ -15,7 +15,7 @@ x = 15; // is assigned the value of 15 assignment operator
 let x = 15; // variable that can be reassigned
 x = 225; // reassigned to a new value
 const y = 14; // permanent variable it cannot be reassigned
-y = "f"; // it throws an exceptoin saying you cannot reassign a constant variable
+y = "f"; // it throws an exception saying you cannot reassign a constant variable
 
 let -> block scoped
 const -> block scoped
